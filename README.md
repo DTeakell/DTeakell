@@ -6,6 +6,8 @@
 - Currently studying IT at the University of Cincinnati. 📘
 
 ### Skills and Goals
-- Experience with Python, C, and Swift. 
-- Self-studying Swift, SwiftUI, and UIKit to develop iOS applications.
-- Self-studying HTML, CSS, and JavaScript to develop a web applications.
+- Experience with Python and Swift. 
+- Self-studying Swift, SwiftUI to develop iOS applications.
+- 1 year of IT experience
+- HSK-5 Chinese Reading and Speaking
+- Self-studying Japanese 
