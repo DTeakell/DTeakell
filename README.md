@@ -2,8 +2,8 @@
 ### My name is Dillon Teakell
 ### About Me
 - I'm 20 years old and am located in the United States. 🇺🇸
-- Looking for internship opportunities in IT, Web Development, and iOS Development. 👨🏻‍💻
-- Currently studying IT at the University of Cincinnati. 📘
+- Looking for internship opportunities in IT and iOS Development. 👨🏻‍💻
+- Currently self-studying iOS Development ⌨️
 
 ### Skills and Goals
 - Experience with Python and Swift. 
