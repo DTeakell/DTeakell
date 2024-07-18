@@ -1,4 +1,4 @@
-# Hi! 👋🏻
+# Welcome! ⌨️
 ### My name is Dillon Teakell
 ### About Me
 - iOS and Android Mobile Developer
