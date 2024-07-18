@@ -1,7 +1,13 @@
 # Hi! 👋🏻
 ### My name is Dillon Teakell
 ### About Me
-- I'm 21 and am a full-time CNC machinist!
-- Self-studying Swift and SwiftUI to develop iOS applications
-- iPhone Photographer
+- iOS and Android Mobile Developer
 - Digital Designer
+- Mobile Photographer
+
+### Things I'm Learning
+- Swift and SwiftUI
+- Kotlin and Compose
+- Figma
+- JavaScript and React / React Native
+- Dart
