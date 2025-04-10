@@ -1,11 +1,12 @@
 # Welcome! ⌨️
 ### My name is Dillon Teakell
 ### About Me
-- Aspiring iOS Developer
-- Digital Designer
-- Mobile Photographer
+- An aspring developer studying mainframes and iOS development!
 
 ### Things I'm Learning
-- Swift and SwiftUI
-- Using APIs in Swift
-- Utilizing Apple Frameworks
+- Swift, C, and Objective-C
+- ARM Architecture
+- IBM Z/Architecture
+- Z/OS
+- COBOL
+- iOS
