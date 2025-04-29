@@ -1,12 +1,9 @@
 # Welcome! ⌨️
 ### My name is Dillon Teakell
 ### About Me
-- An aspring developer studying mainframes and iOS development!
-
+I'm an aspring iOS developer who is self-studying CS and specializing in learning legacy systems!
 ### Things I'm Learning
-- Swift, C, and Objective-C
+- Swift
+- Objective-C
 - ARM Architecture
-- IBM Z/Architecture
-- Z/OS
-- COBOL
-- iOS
+- UIKit & SwiftUI
